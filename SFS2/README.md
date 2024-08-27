@@ -21,6 +21,8 @@ R - reload level
 
 \] - next level
 
+## set FPS:
+
 0 - unlock FPS (default)
 
 **9 - 60 fps**
