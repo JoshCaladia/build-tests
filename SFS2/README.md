@@ -16,6 +16,8 @@ move at alternate speed: shift / left bumper
 
 # debug controls
 
+F3 - show debug overlay; enable debug controls
+
 Q - toggle gun
 
 R - reload level
