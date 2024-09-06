@@ -11,9 +11,6 @@ jump: space / A or right bumper
 
 move at alternate speed: shift / left bumper
 
-> [!NOTE]
-> if alternate speed is above standard speed (which it currently is), you must have stamina to run
-
 # debug controls
 
 F3 - show debug overlay; enable debug controls
