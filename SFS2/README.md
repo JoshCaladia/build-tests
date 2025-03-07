@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> "godot-jolt_windows=x64.dll" must be in the same folder as the executable for the game to run.
-
 # controls
 move: WASD / left stick
 look: mouse / right stick
