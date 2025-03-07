@@ -2,45 +2,21 @@
 > "godot-jolt_windows=x64.dll" must be in the same folder as the executable for the game to run.
 
 # controls
-
 move: WASD / left stick
+look: mouse / right stick
+jump: space / A or left trigger
+sprint: shift / left stick click
+change tool: scroll / bumpers
+check tool: middle click / right stick click
+interact/use tool: left click / right trigger
+pause: esc or tab / start, select, or PS touchpad
 
-look: mouse or arrow keys / right stick
+## menu navigation
+navigate: left stick, arrow keys, WASD
+select: A, space, enter
+back: B, start, select, PS touchpad, esc, tab
 
-jump: space / A or right bumper
-
-move at alternate speed: shift / left bumper
-
-# debug controls
-
+## debug controls
 F3 - show debug overlay; enable debug controls
-
-Q - toggle gun
-
+F11/Alt+Enter - toggle fullscreen
 R - reload level
-
-\[ - previous level
-
-\] - next level
-
-## set FPS:
-
-0 - unlock FPS (default)
-
-**9 - 60 fps**
-
-8 - 50 fps
-
-7 - 40 fps
-
-**6 - 30 fps**
-
-5 - 20 fps
-
-4 - 10 fps
-
-3 - 24 fps
-
-2 - 48 fps
-
-1 - 1 fps (just for fun)
