@@ -5,7 +5,7 @@ jump: space / A or left trigger
 sprint: shift / left stick click
 change tool: scroll / bumpers
 check tool: middle click / right stick click
-interact/use tool: left click / right trigger
+interact/use tool: left click / X or right trigger
 pause: esc or tab / start, select, or PS touchpad
 
 ## menu navigation
