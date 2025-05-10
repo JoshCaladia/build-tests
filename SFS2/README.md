@@ -4,15 +4,17 @@ move: WASD / left stick
 
 look: mouse / right stick
 
-jump: space / A or left trigger
+jump: space / A button or left trigger
 
 sprint: shift / left stick click
+
+crouch: ctrl / B button
 
 change tool: scroll / bumpers
 
 check tool: middle click / right stick click
 
-interact/use tool: left click / X or right trigger
+interact/use tool: left click / X button or right trigger
 
 pause: esc or tab / start, select, or PS touchpad
 
